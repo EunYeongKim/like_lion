@@ -83,3 +83,5 @@ puts student
 puts student[:name]
 puts student[:age]
 puts student[:college]
+
+#GIT 사용법 알아보기 수정용
